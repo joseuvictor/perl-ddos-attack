@@ -1,4 +1,4 @@
-# perlddosattack
+# perl-ddos-attack
 Perl Archives to DDOS Attack
 
 Perl is a family of two cross-platform programming languages, Perl 5 and Perl 6. Originally, Perl was developed by Larry Wall in 1987; Since then, the language has undergone many updates and revisions until reaching the Perl 5 version in 1994.
