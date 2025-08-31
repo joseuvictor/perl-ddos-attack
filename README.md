@@ -1,0 +1,1 @@
+hese files should only be used for studies, college and knowledge, I am not responsible for files used improperly or to commit crimes, remember that knowledge is not a crime but it becomes one if you use it for evil.
